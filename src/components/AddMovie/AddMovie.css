@@ -1,0 +1,8 @@
+.add-movie {
+    margin-left: 50px;
+}
+.add-movie input {
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 300px;
+}
